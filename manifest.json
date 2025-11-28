@@ -1,0 +1,41 @@
+{
+  "name": "轻记",
+  "appid": "", // 替换为你的UniApp AppID（HBuilderX中获取）
+  "description": "大学生轻量化日记+待办+专注工具",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": true,
+  
+  /* 微信小程序配置 */
+  "mp-weixin": {
+    "appid": "", // 替换为你的微信小程序AppID（测试可留空）
+    "setting": {
+      "urlCheck": false, // 开发阶段关闭域名校验
+      "es6": true,
+      "postcss": true
+    },
+    "usingComponents": true
+  },
+  
+  /* App端配置 */
+  "app-plus": {
+    "usingComponents": true,
+    "permission": {
+      "scope.writePhotosAlbum": {
+        "desc": "用于保存日记图片"
+      },
+      "scope.camera": {
+        "desc": "用于拍摄日记图片"
+      }
+    }
+  },
+  
+  /* H5配置 */
+  "h5": {
+    "title": "轻记",
+    "domain": "",
+    "router": {
+      "mode": "hash"
+    }
+  }
+}

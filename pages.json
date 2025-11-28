@@ -1,0 +1,16 @@
+{
+  "pages": [
+    { "path": "pages/index/index", "style": { "navigationBarTitleText": "轻记" } },
+    { "path": "pages/diary/diary", "style": { "navigationBarTitleText": "我的日记" } },
+    { "path": "pages/writeDiary/writeDiary", "style": { "navigationBarTitleText": "写日记" } },
+    { "path": "pages/tomato/tomato", "style": { "navigationBarTitleText": "番茄钟" } },
+    { "path": "pages/stats/stats", "style": { "navigationBarTitleText": "统计" } }
+  ],
+  "tabBar": {
+    "list": [
+      { "pagePath": "pages/index/index", "text": "首页" },
+      { "pagePath": "pages/diary/diary", "text": "日记" },
+      { "pagePath": "pages/stats/stats", "text": "统计" }
+    ]
+  }
+}
