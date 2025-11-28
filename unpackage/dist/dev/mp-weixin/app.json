@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/diary/diary",
+    "pages/writeDiary/writeDiary",
+    "pages/tomato/tomato",
+    "pages/stats/stats"
+  ],
+  "subPackages": [],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/diary/diary",
+        "text": "日记"
+      },
+      {
+        "pagePath": "pages/stats/stats",
+        "text": "统计"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

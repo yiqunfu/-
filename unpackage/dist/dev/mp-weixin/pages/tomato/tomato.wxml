@@ -1,0 +1,1 @@
+<view class="tomato-page data-v-2ff262f4"><view class="timer data-v-2ff262f4">{{formatTime}}</view><button data-event-opts="{{[['tap',[['toggleTimer',['$event']]]]]}}" bindtap="__e" class="data-v-2ff262f4">{{isRunning?'暂停':'开始专注'}}</button><view class="status data-v-2ff262f4">{{statusText}}</view></view>

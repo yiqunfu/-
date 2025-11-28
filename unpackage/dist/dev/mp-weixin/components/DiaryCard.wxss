@@ -1,0 +1,40 @@
+
+.diary-card.data-v-31d09d28 {
+  background: #f9f9f9;
+  border-radius: 15rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+.card-header.data-v-31d09d28 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10rpx;
+}
+.date.data-v-31d09d28 {
+  color: #666;
+  font-size: 28rpx;
+}
+.tag.data-v-31d09d28 {
+  padding: 5rpx 15rpx;
+  background: #42b983;
+  color: white;
+  border-radius: 15rpx;
+  font-size: 26rpx;
+}
+.content.data-v-31d09d28 {
+  display: block;
+  margin: 10rpx 0;
+  line-height: 1.5;
+}
+.img-list.data-v-31d09d28 {
+  display: flex;
+  gap: 10rpx;
+  flex-wrap: wrap;
+}
+.diary-img.data-v-31d09d28 {
+  width: 120rpx;
+  height: 120rpx;
+  object-fit: cover;
+  border-radius: 10rpx;
+}
+

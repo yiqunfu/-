@@ -1,0 +1,41 @@
+
+.diary-page.data-v-61fd5b0e {
+  padding: 20rpx;
+}
+.tag-filter.data-v-61fd5b0e {
+  display: flex;
+  gap: 15rpx;
+  flex-wrap: wrap;
+  margin-bottom: 20rpx;
+}
+.tag-filter text.data-v-61fd5b0e {
+  padding: 8rpx 20rpx;
+  background: #f5f5f5;
+  border-radius: 20rpx;
+}
+.tag-filter text.active.data-v-61fd5b0e {
+  background: #42b983;
+  color: white;
+}
+.diary-list.data-v-61fd5b0e {
+  margin: 20rpx 0;
+}
+.empty-tip.data-v-61fd5b0e {
+  color: #999;
+  text-align: center;
+  padding: 40rpx;
+}
+.add-diary-btn.data-v-61fd5b0e {
+  position: fixed;
+  bottom: 30rpx;
+  right: 30rpx;
+  width: 80rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  background: #42b983;
+  color: white;
+  border-radius: 50%;
+  font-size: 40rpx;
+}
+

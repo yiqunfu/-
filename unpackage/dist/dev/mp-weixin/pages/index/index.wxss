@@ -1,0 +1,29 @@
+
+.index-page.data-v-57280228 {
+  padding: 20rpx;
+}
+.header.data-v-57280228 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20rpx;
+}
+.todo-list.data-v-57280228 {
+  margin: 20rpx 0;
+}
+.empty-tip.data-v-57280228 {
+  color: #999;
+  text-align: center;
+  padding: 40rpx;
+}
+.add-btn.data-v-57280228 {
+  background: #42b983;
+  color: white;
+  border-radius: 50rpx;
+}
+.tomato-entry.data-v-57280228 {
+  display: block;
+  text-align: center;
+  margin-top: 20rpx;
+  color: #42b983;
+}
+
